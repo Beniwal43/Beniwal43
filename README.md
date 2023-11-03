@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chetan Raj Beniwal
-- 👀 I’m interested in Web Development and Python Programming
+- 👀 I’m well wxperienced in Web Development and Mobile Development. Also, interested in Java and Python Programming..
 - 🌱 I’m currently pursuing btech with computer science (CSE)
 - 💞️ I’m looking to collaborate on Projects related to web development
 - 📫 You can Contact me on +919467697761 or drop me email chetanraj688@gmail.com
